@@ -9,7 +9,7 @@ A temperature sensor used to measure temperature in degrees Celsius.
 ## 2.Arduino UNO(SIMULINO UNO): 
 A microcontroller board used for controlling the simulation and reading the sensor data.
 
-## 3.16x2 LCD(lM017L): 
+## 3.16x2 LCD(LM017L): 
 A Liquid Crystal Display (LCD) that shows the temperature and status.
 
 ## 4.POT 10K OHM(3005P-1-103)
